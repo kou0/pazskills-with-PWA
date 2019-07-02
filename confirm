@@ -1,6 +1,9 @@
-#include<stdio.h>
-int main(void)
-{
-printf("Hello world");
-return 0;
-}
+パズドラ補助アプリをPWAで作成する。
+
+画面内容
+1,条件式を追加する画面
+2,条件式を入力する画面
+3,
+4,
+5,
+6,
