@@ -1,1 +1,1 @@
-# pazskils-with-PWA
+# pazskills-with-PWA
